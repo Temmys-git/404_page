@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#fofimage{
+    width: 586px;
+    height: 490px;
+
+}
+
+#prg{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family:space monospace;
+    word-spacing: 10px;
+}
+
+#prg1{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+#prg2{
+    font-size: 30px;
+    font-weight: 100;
+    margin-right: 300px ;
+}
+
+#prg3 {
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+    padding: 20px;
+    text-align: center;
+  border:  solid;
+  width: 216px;
+  height: 68px;
+  top: 663px;
+  left: 740px;
+}
